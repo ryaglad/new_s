@@ -37,7 +37,6 @@ weapon/JPEGImages/6v019.jpg, 201,48,617,773,6V
 weapon/JPEGImages/6v0200.jpg, 15,10,374,594,6V
 weapon/JPEGImages/6v021.jpg, 60,4,158,161,6V
 weapon/JPEGImages/6v022.jpg, 7,8,248,354,6V
-weapon/JPEGImages/6v023.jpg, 46,18,363,464,6V
 weapon/JPEGImages/6v023.png, 46,18,363,464,6V
 weapon/JPEGImages/6v024.jpg, 60,51,397,470,6V
 weapon/JPEGImages/6v025.jpg, 15,16,626,931,6V
@@ -1584,7 +1583,6 @@ weapon/JPEGImages/6v_xray_996.png,0,0,317,451,6V
 weapon/JPEGImages/6v_xray_997.png,0,0,317,451,6V
 weapon/JPEGImages/6v_xray_998.png,0,0,317,451,6V
 weapon/JPEGImages/6v_xray_999.png,0,0,364,457,6V
-weapon/JPEGImages/9V_0.png, 0,8,124,195,9V
 weapon/JPEGImages/9V_1.png, 1,0,167,91,9V
 weapon/JPEGImages/9V_10.jpg, 207,114,443,539,9V
 weapon/JPEGImages/9V_11.jpg, 119,47,285,360,9V
@@ -2990,8 +2988,6 @@ weapon/JPEGImages/butterfly1092.jpg, 184,66,609,375,knife
 weapon/JPEGImages/butterfly1093.jpg, 22,28,563,421,knife
 weapon/JPEGImages/butterfly1094.jpg, 164,31,476,415,knife
 weapon/JPEGImages/butterfly1095.png, 192,117,853,842,knife
-weapon/JPEGImages/butterfly1096.jpg, 5,15,839,802,knife
-weapon/JPEGImages/butterfly1097.jpg, 5,5,1000,751,knife
 weapon/JPEGImages/butterfly1098.jpg, 32,29,783,416,knife
 weapon/JPEGImages/butterfly1099.jpg, 3,19,235,210,knife
 weapon/JPEGImages/butterfly1100.jpeg, 13,8,446,438,knife
@@ -3008,7 +3004,6 @@ weapon/JPEGImages/container1004.jpg, 174,1,343,500,container
 weapon/JPEGImages/container1005.jpg, 82,40,171,249,container
 weapon/JPEGImages/container1007.jpg, 116,86,244,372,container
 weapon/JPEGImages/container1008.jpg, 179,0,348,489,container
-weapon/JPEGImages/container1010.jpg, 285,15,728,1003,container
 weapon/JPEGImages/container1011.jpg, 94,48,302,623,container
 weapon/JPEGImages/container1012.jpg, 90,6,257,338,container
 weapon/JPEGImages/container1014.jpeg, 88,16,1026,1096,container
@@ -3108,7 +3103,6 @@ weapon/JPEGImages/gun1032.jpg, 91,185,951,546,gun
 weapon/JPEGImages/gun1034.jpg, 146,150,834,505,gun
 weapon/JPEGImages/gun1035.jpg, 22,49,305,228,gun
 weapon/JPEGImages/gun1036.jpg, 80,1,246,162,gun
-weapon/JPEGImages/handgun1001.jpg, 46,3,831,661,gun
 weapon/JPEGImages/handgun1003.jpg, 51,168,857,735,gun
 weapon/JPEGImages/handgun1006.jpg, 25,118,578,476,gun
 weapon/JPEGImages/handgun1007.jpg, 10,118,591,489,gun
@@ -3160,7 +3154,6 @@ weapon/JPEGImages/handgun1058.jpg, 4,19,369,346,gun
 weapon/JPEGImages/handgun1059.png, 29,24,295,224,gun
 weapon/JPEGImages/handgun1060.png, 87,69,664,479,gun
 weapon/JPEGImages/handgun1061.jpg, 66,98,291,279,gun
-weapon/JPEGImages/handgun1062.jpg, 15,145,353,409,gun
 weapon/JPEGImages/handgun1062.jpg, 101,0,479,301,gun
 weapon/JPEGImages/handgun1063.jpg, 18,31,1590,1096,gun
 weapon/JPEGImages/handgun1064.jpg, 4,24,191,174,gun
@@ -3168,7 +3161,6 @@ weapon/JPEGImages/handgun1065.jpg, 17,109,585,487,gun
 weapon/JPEGImages/handgun1066.png, 143,58,1066,714,gun
 weapon/JPEGImages/handgun1067.jpg, 3,10,300,217,gun
 weapon/JPEGImages/knife1001.jpg, 123,189,473,379,knife
-weapon/JPEGImages/knife1004.jpg, 59,438,1115,934,knife
 weapon/JPEGImages/knife1004.jpg, 103,250,1146,571,knife
 weapon/JPEGImages/knife1004.jpg, 23,47,1274,356,knife
 weapon/JPEGImages/knife1005.jpg, 113,501,484,571,knife
